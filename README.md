@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Gabriel Marques Sanjuliano</h1>
 
-<!--
-**gms63/gms63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Web Developer. Enthusiast of web and mobile development technologies.</p>
+<p>Passionate about programming and cool designs.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gms63&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gms63&layout=compact&theme=radical)](https://github.com/GabrielSanjuliano/github-readme-stats)
+ ---
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+web+developer)](https://git.io/typing-svg)
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,linux,html,css,firebase,git,github,angular)](https://skillicons.dev)
+ 
+ <a href = "mailto:gmsanjuliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gmsanjuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
